@@ -14,7 +14,7 @@ This project contains a shell script to analyse Linux server performance statist
 
 ## Project URL
 
-https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME
+https://github.com/dikshani/Server-Performance-Stats
 
 ## Run Script
 
